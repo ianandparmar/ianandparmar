@@ -16,7 +16,7 @@
 
   <a class="footer-link" href="https://www.linkedin.com/in/ianandparmar/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
   <a class="footer-link" href="https://www.facebook.com/ianandparmar"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-  <a class="footer-link" href="https://ianandparmar.github.io/cv/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+  <a class="footer-link" href="https://ianandparmar.github.io/Css_Personal_Page/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
   <a href="mailto:sameeranandparmar@gmail.com"><img src="https://img.icons8.com/clouds/48/000000/new-post.png"/></a>
 
 <!--
